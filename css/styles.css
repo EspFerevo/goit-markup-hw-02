@@ -113,7 +113,7 @@ a {
 .section-team li {
   background-color: white;
 }
-.text-team {
+.team-h2 {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -122,14 +122,14 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.manager-name {
+.team-h3 {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em; /* 120% */
   letter-spacing: 0.4px;
 }
-.position {
+.team-p {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
