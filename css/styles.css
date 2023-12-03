@@ -55,7 +55,11 @@ a {
 }
 
 .address:hover,
-.link a:focus {
+.address:focus {
+  color: #404bbf;
+}
+.address:focus,
+.address:active {
   color: #404bbf;
 }
 
