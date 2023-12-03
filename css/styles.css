@@ -16,7 +16,7 @@ a {
 /*Header*/
 
 .header-link {
-  background-color: white"
+  background-color: white;
 }
 
 .web-color {
@@ -111,7 +111,7 @@ a {
   background-color: #f4f4fd;
   color: #2e2f42;
 }
-.section-team li {
+.team-member {
   background-color: white;
 }
 .text-team {
