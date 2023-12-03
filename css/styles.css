@@ -13,8 +13,9 @@ a {
   color: inherit;
 }
 
-/*Navigation*/
-.header {
+/*Header*/
+
+.header-link {
   background-color: white;
 }
 
