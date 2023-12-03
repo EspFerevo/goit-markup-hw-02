@@ -113,7 +113,7 @@ a {
 .section-team li {
   background-color: white;
 }
-.team-h2 {
+.text-team {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -122,14 +122,14 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-h3 {
+.manager-name {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em; /* 120% */
   letter-spacing: 0.4px;
 }
-.team-p {
+.position {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -139,8 +139,9 @@ a {
 /*Portfolio section*/
 .portfolio {
   color: #2e2f42;
+  line-height: 1.11em;
 }
-.our-portfolio {
+.portfolio h2 {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
