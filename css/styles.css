@@ -138,6 +138,7 @@ a {
 /*Portfolio section*/
 .portfolio {
   color: #2e2f42;
+  line-height: 1.11em;
 }
 .portfolio h2 {
   text-align: center;
