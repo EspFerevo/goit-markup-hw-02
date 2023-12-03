@@ -16,7 +16,7 @@ a {
 /*Header*/
 
 .header-link {
-  background-color: white;
+  background-color: white"
 }
 
 .web-color {
@@ -142,7 +142,7 @@ a {
   color: #2e2f42;
   line-height: 1.11em;
 }
-.our-portfolio {
+.portfolio h2 {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -151,14 +151,14 @@ a {
   text-transform: capitalize;
 }
 
-.port-title {
+.portfolio h3 {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em; /* 120% */
   letter-spacing: 0.4px;
 }
 
-.port-text {
+.portfolio p {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em; /* 150% */
