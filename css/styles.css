@@ -110,7 +110,7 @@ a {
   background-color: #f4f4fd;
   color: #2e2f42;
 }
-.team-li {
+.section-team li {
   background-color: white;
 }
 .text-team {
@@ -139,11 +139,9 @@ a {
 /*Portfolio section*/
 .portfolio {
   color: #2e2f42;
+  line-height: 1.11em;
 }
-.portfolio-li {
-  background-color: white;
-}
-.our-portfolio {
+.portfolio h2 {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -152,14 +150,14 @@ a {
   text-transform: capitalize;
 }
 
-.pportolio-h3 {
+.portfolio h3 {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2em; /* 120% */
   letter-spacing: 0.4px;
 }
 
-.portfolio-p {
+.portfolio p {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em; /* 150% */
