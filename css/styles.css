@@ -45,15 +45,26 @@ a {
   color: #404bbf;
 }
 
-.address {
+.address-mail {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.32px;
-  color: #434455;
 }
-.address:hover,
+.address-number {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5em; /* 150% */
+  letter-spacing: 0.32px;
+}
+.address-mail:hover,
+.link a:focus {
+  color: #404bbf;
+}
+
+.address-number:hover,
 .link a:focus {
   color: #404bbf;
 }
