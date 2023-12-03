@@ -53,15 +53,12 @@ a {
   letter-spacing: 0.32px;
   color: #434455;
 }
-.address-mail:hover,
+
+.address:hover,
 .link a:focus {
   color: #404bbf;
 }
 
-.address-phone:hover,
-.link a:focus {
-  color: #404bbf;
-}
 /*Hero section*/
 .hero-section {
   background-color: #2e2f42;
