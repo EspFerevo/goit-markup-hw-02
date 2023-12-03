@@ -45,7 +45,7 @@ a {
   color: #404bbf;
 }
 
-.address {
+.header-address {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -53,11 +53,15 @@ a {
   letter-spacing: 0.32px;
   color: #434455;
 }
-.address:hover,
+.address-mail:hover,
 .link a:focus {
   color: #404bbf;
 }
 
+.address-phone:hover,
+.link a:focus {
+  color: #404bbf;
+}
 /*Hero section*/
 .hero-section {
   background-color: #2e2f42;
@@ -90,9 +94,6 @@ a {
 
 /*Accessibility sections*/
 
-.features-li {
-  color: #2e2f42;
-}
 .studio-h3 {
   font-size: 20px;
   font-weight: 500;
