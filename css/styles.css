@@ -90,6 +90,9 @@ a {
 
 /*Accessibility sections*/
 
+.features-li {
+  color: #2e2f42;
+}
 .studio-h3 {
   font-size: 20px;
   font-weight: 500;
